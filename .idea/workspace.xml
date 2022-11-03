@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96f0b0e1-7bea-4ba1-a494-f2f1a0eef33f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/Blue_sky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Rocket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Sideways_Shooter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/game_character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/better_ship.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rocket.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Better_Stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/alien_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/aliens.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/star.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/better_ship.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/images/better_ship.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
     </list>
@@ -91,11 +88,6 @@
           <url>file://$PROJECT_DIR$/playground.py</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/alien_invasion.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
