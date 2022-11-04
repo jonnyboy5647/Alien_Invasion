@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96f0b0e1-7bea-4ba1-a494-f2f1a0eef33f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/Raindrop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/SS_13_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/SS_KEY.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Steady_Rain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Alien_Invasion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Alien_Invasion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Better_Stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Better_Stars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Sideways_Shooter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Sideways_Shooter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Stars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/aliens.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/aliens.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/star.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/star.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/SS_13_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/SS_KEY.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
