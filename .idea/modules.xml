@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Alien_Invasion.iml" filepath="$PROJECT_DIR$/.idea/Alien_Invasion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../MIDY/.idea/MIDY.iml" filepath="$PROJECT_DIR$/../../MIDY/.idea/MIDY.iml" />
     </modules>
   </component>
 </project>
